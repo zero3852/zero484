@@ -1,0 +1,12 @@
+{
+  "name": "my-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sdgd.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "calculate": "node utils.js"
+  },
+  "author": "zero3852",
+  "license": "ISC"
+}
